@@ -1,0 +1,15 @@
+body{
+text-align:center;
+background:#7bd7ff;
+font-family:Arial;
+}
+
+canvas{
+background:white;
+border:3px solid black;
+}
+
+#score{
+font-size:22px;
+margin:10px;
+}
